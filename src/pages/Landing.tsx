@@ -155,7 +155,7 @@ export default function Landing() {
               <span className="font-semibold">Corrupt Watch</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2024 Corrupt Watch. Ensuring transparency and accountability.
+               Built by Moggers — Kishan SS, Mohith S, Keerthan GV, Vishwajeet S
             </p>
           </div>
         </div>
